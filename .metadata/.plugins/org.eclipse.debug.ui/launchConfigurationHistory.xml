@@ -4,10 +4,13 @@
 <mruHistory/>
 <favorites/>
 </launchGroup>
+<<<<<<< HEAD
 <launchGroup id="com.appcelerator.titanium.publish.launchGroup">
 <mruHistory/>
 <favorites/>
 </launchGroup>
+=======
+>>>>>>> FETCH_HEAD
 <launchGroup id="org.eclipse.debug.ui.launchGroup.profile">
 <mruHistory/>
 <favorites/>
